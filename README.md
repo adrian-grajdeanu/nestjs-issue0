@@ -1,9 +1,9 @@
 # Install dependencies
 ``` bash
-$pnpx install
+$ pnpx install
 ```
 
-# Run bundled
+# Run unbundled
 ``` bash
 $ pnpm run:unbundled
 
