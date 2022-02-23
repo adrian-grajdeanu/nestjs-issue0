@@ -6,7 +6,7 @@
   },
   "scripts": {
     "run:unbundled": "ts-node lib/cc.ts",
-    "bundle": "ts-node bundle.ts",
+    "bundle": "ts-node scripts/bundle.ts",
     "run:bundled": "ts-node dist/c.js"
   },
   "devDependencies": {
